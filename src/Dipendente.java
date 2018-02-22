@@ -1,4 +1,5 @@
 //ver 1
+// Carlino gay
 public class Dipendente {
 	private String cognome;
 	private String nome;
